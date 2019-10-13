@@ -1,4 +1,4 @@
-# Just a small JS practice project
+# A small JS practice project
 
 ### This calculator calculates the amortized loan.
 
